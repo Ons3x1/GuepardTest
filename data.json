@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 28,
+      "email": "alice@example.com",
+      "purchase_history": [
+        {"item": "Laptop", "amount": 1200},
+        {"item": "Mouse", "amount": 25}
+      ],
+      "location": {"city": "New York", "country": "USA"},
+      "membership": "Gold"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 35,
+      "email": "bob@example.com",
+      "purchase_history": [
+        {"item": "Phone", "amount": 800},
+        {"item": "Headphones", "amount": 100}
+      ],
+      "location": {"city": "Los Angeles", "country": "USA"},
+      "membership": "Silver"
+    }
+  ]
+  
